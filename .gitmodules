@@ -1,0 +1,21 @@
+[submodule "bloom"]
+	path = bloom
+	url = https://github.com/barrust/bloom
+[submodule "set"]
+	path = set
+	url = https://github.com/barrust/set
+[submodule "c-utils"]
+	path = c-utils
+	url = https://github.com/barrust/c-utils
+[submodule "counting_bloom"]
+	path = counting_bloom
+	url = https://github.com/barrust/counting_bloom
+[submodule "hashmap"]
+	path = hashmap
+	url = https://github.com/barrust/hashmap
+[submodule "minunit"]
+	path = minunit
+	url = https://github.com/barrust/minunit
+[submodule "timing-c"]
+	path = timing-c
+	url = https://github.com/barrust/timing-c
